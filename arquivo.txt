@@ -1,1 +1,15 @@
 Olá mundo git
+git add . ou git add nomedoarquivo
+git log -p
+
+git log -p -
+git log --stat (mostra estatisticas)
+
+git commit -m "mensagem"
+ou git commit 
+
+git log --pretty=oneline
+get log --since=2.days
+
+
+.gitignore
